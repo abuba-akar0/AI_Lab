@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# Environments and secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Byte-compiled / cache
+*.pyc
+
+# Models/data (optional - uncomment if you don't want to track large artifacts)
+# models/
+# data/
